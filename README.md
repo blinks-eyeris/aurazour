@@ -1,6 +1,6 @@
 Hi I'm Ivy and this is my github of personal projects
 
-Coding languages: Python, Java, C, MySQL + base knowledge of assembly and html/css
+Coding languages: Python, Java, C, SQL, HTML, CSS, JavaScript
 
 <!---
 Aurazour/Aurazour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
