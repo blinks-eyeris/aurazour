@@ -1,4 +1,4 @@
-Hi I'm Ivy and this is my github of personal projects
+Hi I'm Ivy Aurazour and this is my github of personal projects
 
 Coding languages: Python, Java, C, SQL, HTML, CSS, JavaScript
 
